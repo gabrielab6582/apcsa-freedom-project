@@ -12,7 +12,7 @@
 
 
 <p>Keeping these ideas in mind, I began designing the base on the lower part of the guitar's body. The base is made up of a variety of beams and connectors in order to provide stability.
-![Beams](https://www.google.com/url?sa=i&url=https%3A%2F%2Froboticsmbsskl.wordpress.com%2F2018%2F02%2F11%2Fhow-do-you-recognize-beams%2F&psig=AOvVaw3IyrI-jo69nF19a5FKj2Qb&ust=1581386519372000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjX24HyxecCFQAAAAAdAAAAABAD)
+![Beams](beam.png)
 
 As I added more pieces together, I ran into trouble. After building a section of the base that went across the body of the guitar, I reached a dead end. My next step was to build upwards but I did not  know how to do that with the beams. As a result I turned to google to find people who had done a similar project. On youtube I ran into the user TECHNICally Possible who shares a video on his attempt at this project.<a href = "https://www.youtube.com/watch?v=EN-7cMjmFv0">Video </a>
 
