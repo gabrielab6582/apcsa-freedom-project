@@ -2,7 +2,29 @@
 ##### 11/29/2019
 ***
 #### Deciding on a Project
-After receiving clearance from Mr. Mueller for using the EV3 Robot for my Freedom Project, I began gathering (and continue to do so) all necessary parts in order for the EV3 Lego Band to execute its music. The EV3 Lego Band Project
+After receivi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ng clearance from Mr. Mueller for using the EV3 Robot for my Freedom Project, I began gathering (and continue to do so) all necessary parts in order for the EV3 Lego Band to execute its music. The EV3 Lego Band Project
 
 
 #### Tinkering
