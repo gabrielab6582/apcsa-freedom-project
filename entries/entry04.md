@@ -3,7 +3,7 @@
 
 ### The EV3 band is finally ready to become reality.
 <p>With a planned outline for the band and being familiar with the materials and the software, I began constructing the the structure for the guitar. </p>
-#### The structure of the guitar servers to be the “hands” that play the guitar. When building the structure there are a few aspects and details the must be considered:
+<h3>The structure of the guitar servers to be the “hands” that play the guitar. When building the structure there are a few aspects and details the must be considered:</h3>
 
 <li>The structure must be stable:</li>
 <ul>The structure cannot be loose and move around when the motors are operating. With repeated shaking of the structure, there is a possibility of falling apart. </ul>
