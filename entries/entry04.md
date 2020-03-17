@@ -2,29 +2,28 @@
 ##### 2/9/20
 
 ### The EV3 band is finally ready to become reality.
-<p>With a planned outline for the band and being familiar with the materials and the software, I began constructing the the structure for the guitar. </p>
-<h3>The structure of the guitar servers to be the “hands” that play the guitar. When building the structure there are a few aspects and details the must be considered:</h3>
+<p>In these past few weeks the pieces of the EV3 Band  have been finally coming together. In the process my plan of action has also been slightly altered in order to fit my schedule. Because I did not have the chance to add motors to my guitar structure during class. I took it upon myself to take the necessary lego pieces and work on the drum portion of the project at home. My brainstorming process looked like this: </p>
 
-<li>The structure must be stable:</li>
-<ul>The structure cannot be loose and move around when the motors are operating. With repeated shaking of the structure, there is a possibility of falling apart. </ul>
-<li>The arrangement of the piece must allow for a varied range of motion</li>
-<ul>This point directly relates to the part on the neck of  the guitar that will press down on frets and act as fingers. Additionally the arm that will strum the strings needs to be assembled so that it can move freely and perform the proper strum. Similarly, like joints on a human the EV3 robot will mimic this in order to reach the same movement. </ul>
+<li>Deciding on the type of motor: A motor that would provide a range of up and down motion is crucial to make this drum work. It is meant to mimic the motion of an arm hitting a drum. The large motor makes this possible because its rotation is perpendicular to the wing of the motor, which promotes that arm swinging motion. Additionally the large motor has more power. <a href= http://counties.agrilife.org/gillespie/files/2015/04/EV3-Motors-Sensors-Explained-1.pdf>Lego </a> However, there is more play in the motor. As a result the rotator moves more freely and unintentionally. In order to combat this issue of moving too much, a support needs to be built. 
+</li>
+ 
+<li>The support structure is meant to stabilize the large motor. As I was fiddling with the beams an idea came to my mind. A mid-size beam would be connected to an angled beam that is pinned to the side of the motor. This is done on the left and right side of the motor. Providing the structure a vertical standing shape, while keeping the main goal of keeping the rotating part of the motor facing upward.
+</li>
+ 
+ <li> The last step in this design process is to create the “arm” of the drum.  For the arm, it will be made up of  a long exle with a miniature wheel that is in the EV3 Robot box.  When connecting the axle to the motor it proved a slight challenge. Unlike a medium motor, the large motor cannot connect axles perpendicular to the motors rotator. In Order to combat this a few extra supplies were necessary to connect the axle. A few connectors/pegs and beams made it possible for the Drum to become one coherent piece. 
+</li>
 
 
-<p>Keeping these ideas in mind, I began designing the base on the lower part of the guitar's body. The base is made up of a variety of beams and connectors in order to provide stability.
-
-
-As I added more pieces together, I ran into trouble. After building a section of the base that went across the body of the guitar, I reached a dead end. My next step was to build upwards but I did not  know how to do that with the beams. As a result I turned to google to find people who had done a similar project. On youtube I ran into the user TECHNICally Possible who shares a video on his attempt at this project.<a href = "https://www.youtube.com/watch?v=EN-7cMjmFv0">Video </a>
-
-In the video, he explains and shows his arrangement of pieces. Pausing the video to see closely how he connects his parts, I noticed his use of a frame to elevate the structure.  After seeing this, I realized why I didn't know how to proceed. By using just simple beams ( what I thought initially) was not satisfactory because there would be no support and the setup would fall.
+<p>With the piece built my next step was to program so that the arm of the motor moves up and down, just like a human arm hitting a drum. All my coding was done In the EV3 Mindstorm Program. The code that was written is meant to be tentative until the piano and guitar portions are completed as well so that the drum can match with the rest of the instruments. I started off with the loop block that repeats a number of times. Followed by the large motor block establishing the rotation of the axle. The first rotation is set to 90 degrees clockwise with one second in between the second rotation going counterclockwise to end up back where it started. This motion rotated to create a fixed tempo for the song.  
 </p>
 
 
 ### Summary
 <p>
-In regards to the Engineering Design Process, I’m on step 5: creating a prototype. But even within this step, I am constantly going back and performing mini-cycle through the entire process: defining my issue  researching, brainstorming, planning, creating, and testing. These past few weeks I began building my larger prototype but as I go I find myself dealing with smaller problems, such as my issue with elevation of my structure. As I continue to go through my designing process I will run into more mini problems that will require going through the EDP.
+I am on step 5 regarding my Engineering Design Process: creating a prototype. But even within this step, I am constantly going back and performing mini-cycle through the entire process, as seen when building my Drum. As a build I run into an issue and go over the process again: defining my issue  researching, brainstorming, planning, creating, and testing. In the weeks to come I will continue to go through this process of repeating the EDP. 
 
-But my larger prototype step is far from finished. I still have many additions to make in order for the EV3 to play a song. The next step for me is to add the motors. For my EV3 Band, I will need a Large Motor and Medium Motor. According to Lego the Large Motor is slower but more powerful than the medium Motor. As a result, it'll be up to me to determine where each motor belongs.  <a href =https://counties.agrilife.org/gillespie/files/2015/04/EV3-Motors-Sensors-Explained.pdf >Lego </a>
+
+the medium Motor. As a result, it'll be up to me to determine where each motor belongs.  <a href =https://counties.agrilife.org/gillespie/files/2015/04/EV3-Motors-Sensors-Explained.pdf >Lego </a>
 
 
 The recent weeks have shown me the importance of paying attention to small details. It may seem easy to put lego pieces together to make a coherent structure but logical reasoning is definitely a skill that I am using now when building. After realizing the use of the Frame to make my layout standing and stable, it made perfect sense and was completely logical. Since the Frame is built into a square shape it'll have much more support than the single Beam. As I continue to make my EV3 Band I am looking to first make a minimum viable product and then perfect it as I go.
